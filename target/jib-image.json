@@ -1,1 +1,1 @@
-{"image":"daduc/accounts:v4.0","imageId":"sha256:31c416d5bc17d0b7a5eb086b3f035bdf4d78c8febcac91d1c30fbe7e8a1761b0","imageDigest":"sha256:5b4d0292d795538e9bb77aa3c250421952e0a125523f3848ea52c7771413ae8e","tags":["v4.0"],"imagePushed":false}
+{"image":"daduc/accounts:v6","imageId":"sha256:7e3e6513d9f019517068250845744d53d67c8a735367bc1779970bf1858ecfea","imageDigest":"sha256:86a3aa22b4f6f731c0327be3907d7f654c1a558d3348448c5da12aa570a6228b","tags":["v6"],"imagePushed":false}
