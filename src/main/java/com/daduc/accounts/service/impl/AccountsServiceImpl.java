@@ -6,12 +6,12 @@ import com.daduc.accounts.dto.CustomerDto;
 import com.daduc.accounts.entity.Accounts;
 import com.daduc.accounts.entity.Customer;
 import com.daduc.accounts.exception.CustomerAlreadyExistsException;
+import com.daduc.accounts.exception.ResourceNotFoundException;
 import com.daduc.accounts.mapper.AccountsMapper;
 import com.daduc.accounts.mapper.CustomerMapper;
+import com.daduc.accounts.repository.AccountsRepository;
 import com.daduc.accounts.repository.CustomerRepository;
 import com.daduc.accounts.service.IAccountsService;
-import com.daduc.accounts.exception.ResourceNotFoundException;
-import com.daduc.accounts.repository.AccountsRepository;
 import lombok.AllArgsConstructor;
 import org.springframework.stereotype.Service;
 
