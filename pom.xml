@@ -87,7 +87,7 @@
 				<version>3.3.2</version>
 				<configuration>
 					<to>
-						<image>daduc/${project.artifactId}:v6</image>
+						<image>daduc2502/${project.artifactId}:v6</image>
 					</to>
 				</configuration>
 			</plugin>
